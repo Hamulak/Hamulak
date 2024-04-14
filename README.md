@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on codes
 - 📫 [How to reach me ...](https://www.linkedin.com/in/cristian-hamulak-dos-santos-2b665b16b/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm starting programming games, and I play music
 
 <!---
 Hamulak/Hamulak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
